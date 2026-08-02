@@ -27,3 +27,5 @@ I'm interested in machine learning, deep learning, computer vision, NLP, and LLM
 ## Connect
 
 - LinkedIn: <https://www.linkedin.com/in/hifsajabeensatti/>
+
+> **Note:** This GitHub account was created after my previous account was compromised. I'm rebuilding my portfolio here with my latest work.
