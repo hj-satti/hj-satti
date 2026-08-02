@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Hifsa Jabeen Satti 😌
 
-<!--
-**hj-satti/hj-satti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final Year Bachelor's Student in Artificial Intelligence
 
-Here are some ideas to get you started:
+> Learning, making mistakes and repeating.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm interested in machine learning, deep learning, computer vision, NLP, and LLM applications. I enjoy building projects that solve real-world problems and continuously improving my skills.
+
+## Tech Stack
+
+- Python
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- OpenCV
+- Pandas
+- NumPy
+- Git
+
+## Currently
+
+- Building AI and ML projects
+- Learning LLMs and RAG systems
+
+## Connect
+
+- LinkedIn: <https://www.linkedin.com/in/hifsajabeensatti/>
